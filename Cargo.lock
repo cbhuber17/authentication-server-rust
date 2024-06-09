@@ -39,6 +39,7 @@ dependencies = [
  "chrono",
  "jsonwebtoken",
  "serde",
+ "thiserror",
  "tokio",
  "warp",
 ]
